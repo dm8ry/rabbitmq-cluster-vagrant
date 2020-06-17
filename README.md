@@ -4,4 +4,4 @@ Create RabbitMQ cluster using Vagrant.
 
 Screenshot:
 
-https://github.com/dmrsoft/create_rabbitmq_cluster_vagrant/blob/master/Screenshot.jpg?raw=true
+![screenshot](https://github.com/dmrsoft/create_rabbitmq_cluster_vagrant/blob/master/Screenshot.jpg?raw=true "screenshot")
